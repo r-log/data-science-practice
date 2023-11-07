@@ -10,7 +10,6 @@ I've found data science to be incredibly useful and effective in deriving meanin
 
 Within this repository, you will find a variety of projects ranging from simple data analyses to complex machine learning models. Each project is contained within its own directory and includes the following:
 
-- A comprehensive Jupyter notebook that documents the analysis or model-building process step-by-step.
 - A `data` directory where datasets are stored (Note: Due to size and privacy, some datasets may be omitted).
 - A `src` directory containing any additional scripts or modules used in the project.
 - An individual README in each project directory that explains the specific problem being addressed, the methodology used, and the conclusions drawn.
