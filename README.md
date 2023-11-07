@@ -1,4 +1,4 @@
-# data-science-practice
+# DATA SCIENCE PRACTICE
 
 Welcome to my Data Science practice repository! This space is dedicated to my journey in exploring and learning data science. Each project here is crafted with assistance from resources and datasets found on [Kaggle](https://www.kaggle.com/), the largest community and platform for data science competitions and collaborative projects.
 
